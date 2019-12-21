@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1536685209 source:d:\projects\software\trees\main.cpp
+	"UnitTest++.h"
+	"redblacktree.h"
+
+1535398304 c:\program files\unittest-cpp-master\unittest++\unittest++.h
+	"UnitTestPP.h"
+
+1535398304 c:\program files\unittest-cpp-master\unittest++\unittestpp.h
+	"Config.h"
+	"TestMacros.h"
+	"CheckMacros.h"
+	"RequireMacros.h"
+	"TestRunner.h"
+	"TimeConstraint.h"
+	"ReportAssert.h"
+
+1535398301 c:\program files\unittest-cpp-master\unittest++\config.h
+
+1535398303 c:\program files\unittest-cpp-master\unittest++\testmacros.h
+	"Config.h"
+	"TestSuite.h"
+	"ExceptionMacros.h"
+	"ExecuteTest.h"
+	"AssertException.h"
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"Posix/SignalTranslator.h"
+
+1535398304 c:\program files\unittest-cpp-master\unittest++\testsuite.h
+
+1535398302 c:\program files\unittest-cpp-master\unittest++\exceptionmacros.h
+	"Config.h"
+
+1535398302 c:\program files\unittest-cpp-master\unittest++\executetest.h
+	"Config.h"
+	"ExceptionMacros.h"
+	"TestDetails.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+	"AssertException.h"
+	"RequiredCheckException.h"
+	"CurrentTest.h"
+	"ReportAssertImpl.h"
+	"Posix/SignalTranslator.h"
+
+1535398303 c:\program files\unittest-cpp-master\unittest++\testdetails.h
+	"HelperMacros.h"
+
+1535398302 c:\program files\unittest-cpp-master\unittest++\helpermacros.h
+	"Config.h"
+
+1535398303 c:\program files\unittest-cpp-master\unittest++\testresults.h
+	"HelperMacros.h"
+
+1535398302 c:\program files\unittest-cpp-master\unittest++\memoryoutstream.h
+	"Config.h"
+	"HelperMacros.h"
+	<sstream>
+	<cstddef>
+
+1535398301 c:\program files\unittest-cpp-master\unittest++\assertexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1535398302 c:\program files\unittest-cpp-master\unittest++\requiredcheckexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1535398301 c:\program files\unittest-cpp-master\unittest++\currenttest.h
+	"HelperMacros.h"
+
+1535398302 c:\program files\unittest-cpp-master\unittest++\reportassertimpl.h
+	"Config.h"
+	"HelperMacros.h"
+	<csetjmp>
+
+1535398304 c:\program files\unittest-cpp-master\unittest++\posix\signaltranslator.h
+	<setjmp.h>
+	<signal.h>
+
+1535398301 c:\program files\unittest-cpp-master\unittest++\checkmacros.h
+	"HelperMacros.h"
+	"ExceptionMacros.h"
+	"Checks.h"
+	"AssertException.h"
+	"RequiredCheckException.h"
+	"MemoryOutStream.h"
+	"TestDetails.h"
+	"CurrentTest.h"
+	"ReportAssertImpl.h"
+
+1535398301 c:\program files\unittest-cpp-master\unittest++\checks.h
+	"Config.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+
+1535398302 c:\program files\unittest-cpp-master\unittest++\requiremacros.h
+	"RequiredCheckTestReporter.h"
+
+1535398303 c:\program files\unittest-cpp-master\unittest++\requiredchecktestreporter.h
+	"HelperMacros.h"
+	"ThrowingTestReporter.h"
+
+1535398304 c:\program files\unittest-cpp-master\unittest++\throwingtestreporter.h
+	"TestReporter.h"
+
+1535398303 c:\program files\unittest-cpp-master\unittest++\testreporter.h
+	"HelperMacros.h"
+
+1535398303 c:\program files\unittest-cpp-master\unittest++\testrunner.h
+	"Test.h"
+	"TestList.h"
+	"CurrentTest.h"
+
+1535398303 c:\program files\unittest-cpp-master\unittest++\test.h
+	"TestDetails.h"
+
+1535398303 c:\program files\unittest-cpp-master\unittest++\testlist.h
+	"HelperMacros.h"
+
+1535398304 c:\program files\unittest-cpp-master\unittest++\timeconstraint.h
+	"TimeHelpers.h"
+	"HelperMacros.h"
+	"TestDetails.h"
+
+1535398304 c:\program files\unittest-cpp-master\unittest++\timehelpers.h
+	"Config.h"
+	"Posix/TimeHelpers.h"
+	"Win32/TimeHelpers.h"
+
+1535398304 c:\program files\unittest-cpp-master\unittest++\posix\timehelpers.h
+	<sys/time.h>
+
+1535398304 c:\program files\unittest-cpp-master\unittest++\win32\timehelpers.h
+	"../Config.h"
+	"../HelperMacros.h"
+
+1535398302 c:\program files\unittest-cpp-master\unittest++\reportassert.h
+	"HelperMacros.h"
+
+1536690105 d:\projects\software\trees\redblacktree.h
+	<memory>
+	<iostream>
+
+1536439860 d:\projects\software\trees\redblacktreetest.h
+
+1536693508 source:d:\projects\software\trees\redblacktree.cpp
+	<memory>
+	<cstddef>
+	<iostream>
+	<memory>
+	"redblacktree.h"
+
+1536690056 source:d:\projects\software\trees\redblacktreetest.cpp
+	<vector>
+	"UnitTest++.h"
+	"redblacktree.h"
+
